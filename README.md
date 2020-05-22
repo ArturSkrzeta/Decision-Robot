@@ -2,4 +2,4 @@ The app comes with simple front-end that walks user thorugh the steps.
 
 <img src="images/robot.JPG">
 
-<img src="images/user_form.JPG" width="400" height="450">
+<img src="images/user_form.JPG" width="400" height="440">
