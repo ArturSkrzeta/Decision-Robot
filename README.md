@@ -1,4 +1,5 @@
-<p>Program description:</p>
+<h2>Decision Robot</h2>
+<h3>Intro</h3>
 <ul>
   <li>Scipt has questions and answers hard coded.</li>
   <li>Each question in the questionaire has answers which scores a related category.</li>
@@ -8,6 +9,7 @@
   <li>The app comes with simple front-end that walks user thorugh the steps.</li>
 </ul>
 
+<h3>Demo</h3>
 <img src="images/robot.JPG">
 <p>Questionaire pops up as the user form (for demonstration purposes I made it empty with 3 questions only):</p>
 <img src="images/user_form.JPG" width="400" height="430">
