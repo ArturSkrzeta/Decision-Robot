@@ -1,8 +1,8 @@
 <h2>Decision Robot</h2>
 <h3>Intro</h3>
 <ul>
-  <li>Scipt has questions and answers hard coded.</li>
-  <li>Each question in the questionaire has answers which scores a related category.</li>
+  <li>Program has questions and answers hard coded.</li>
+  <li>Each question in the questionaire has the set of answers which scores a related category.</li>
   <li>Points are distributed between categories beased on the answers given by user.</li>
   <li>The outcome comes with options hierarchy as well as in form of the radar chart so that we can see how many points particular option has scored.</li>
   <li>Commercially, this robot is used by buyers to help them to choose the best purchasing channel relying on their answers regarding a product's specification.</li>
